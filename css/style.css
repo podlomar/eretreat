@@ -17,3 +17,16 @@ h1 {
     text-align: center;
     padding: 1rem 0;
 }
+
+#columns {
+    font-size: 0;
+}
+
+.column {
+    font-size: 1rem;
+    display: inline-block;
+    width: 33.3333%;
+    text-align: center;
+    vertical-align: top;
+    border: 1px solid black;
+}
