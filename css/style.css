@@ -28,5 +28,19 @@ h1 {
     width: 33.3333%;
     text-align: center;
     vertical-align: top;
-    border: 1px solid black;
+}
+
+.column>img {
+    width: 80%;
+    height: auto;
+}
+
+.column h2 {
+    font-size: 200%;
+    color: orange;
+}
+
+.column p {
+    font-size: 150%;
+    color: #444;
 }
